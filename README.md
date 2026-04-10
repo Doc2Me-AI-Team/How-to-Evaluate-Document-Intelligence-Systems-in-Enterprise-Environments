@@ -1,4 +1,4 @@
-# How to Evaluate Document Intelligence Systems in Enterprise Environments
+# How to Evaluate Document Intelligence Systems in Enterprise Environments 
 
 Most organizations evaluate document intelligence platforms based on features. In practice, system performance depends on architecture, deployment model, and data flow.
 
